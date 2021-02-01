@@ -9,6 +9,9 @@ https://drive.google.com/folderview?id=1A2nPhTezW0ZG7kLWO8GQOqiSEPaWZqtf
 
 Berikut Video saat saya running di browser :
 
-https://user-images.githubusercontent.com/48098300/106427592-3a40d280-649a-11eb-97d3-8385b1337350.mp4
+
+![2021-02-01-14-30-20](https://user-images.githubusercontent.com/48098300/106427899-b20efd00-649a-11eb-974f-a5b34f26904f.gif)
+
+
 
 
