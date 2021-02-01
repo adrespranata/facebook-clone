@@ -8,3 +8,4 @@ Pada Aplikasi yang saya buat dengan nama "Facebook Clone" ini saya buat mengguna
 https://drive.google.com/folderview?id=1A2nPhTezW0ZG7kLWO8GQOqiSEPaWZqtf
 
 Berikut Video saat saya running di browser :
+https://www.youtube.com/watch?v=6NtplFpCMBM
